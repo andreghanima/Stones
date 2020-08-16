@@ -1,1 +1,1 @@
-# stones_cpp
+# stones solution in C++
