@@ -1,1 +1,1 @@
-# stones solution in C++
+# Take Two Stones solution in C++
